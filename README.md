@@ -11,6 +11,7 @@ Aspiring Software / AI Engineer from Iloilo, Philippines. I build GIS-powered sy
 - 4th year BS Information Systems student at West Visayas State University
 - Web developer at The Premier Property Group
 - Focused on GIS, spatial analysis, and full-stack development
+- DOST SEI Scholar
 
 ### Selected work
 
