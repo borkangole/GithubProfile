@@ -2,10 +2,10 @@
 
 Aspiring Software / AI Engineer from Iloilo, Philippines. I build web and mobile systems end to end, from database design to the interface people use, and I'm currently learning AI automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mhel.site-111111?style=flat-square&logo=vercel&logoColor=white)](https://mhel.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fazermb-111111?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000IDloM3YxMUg0ek01LjUgNGExLjc1IDEuNzUgMCAxIDEgMCAzLjUgMS43NSAxLjc1IDAgMCAxIDAtMy41ek0xMCA5aDIuOXYxLjVoLjA0Yy40LS43NiAxLjM4LTEuNTYgMi44NC0xLjU2QzE4LjggOC45NCAyMCAxMC42IDIwIDEzLjNWMjBoLTN2LTZjMC0xLjQtLjAzLTMuMi0xLjk1LTMuMi0xLjk1IDAtMi4yNSAxLjUyLTIuMjUgMy4xVjIwSDEweicvPjwvc3ZnPg==)](https://www.linkedin.com/in/fazermb)
-[![Email](https://img.shields.io/badge/Email-Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:mhel.bustamante28@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-111111?style=flat-square&logo=readdotcv&logoColor=white)](https://mhel.site/files/Mhel_Bustamante_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge&logo=vercel&logoColor=white)](https://mhel.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000IDloM3YxMUg0ek01LjUgNGExLjc1IDEuNzUgMCAxIDEgMCAzLjUgMS43NSAxLjc1IDAgMCAxIDAtMy41ek0xMCA5aDIuOXYxLjVoLjA0Yy40LS43NiAxLjM4LTEuNTYgMi44NC0xLjU2QzE4LjggOC45NCAyMCAxMC42IDIwIDEzLjNWMjBoLTN2LTZjMC0xLjQtLjAzLTMuMi0xLjk1LTMuMi0xLjk1IDAtMi4yNSAxLjUyLTIuMjUgMy4xVjIwSDEweicvPjwvc3ZnPg==)](https://www.linkedin.com/in/fazermb)
+[![Email](https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhel.bustamante28@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-24292f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://mhel.site/files/Mhel_Bustamante_Resume.pdf)
 
 ---
 
